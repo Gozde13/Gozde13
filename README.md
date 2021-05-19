@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gozde13
+- 👋 Hi, I’m Gozde Gozutok
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python and sql
 - 📫 How to reach me: https://www.linkedin.com/in/gozdegozutok/
