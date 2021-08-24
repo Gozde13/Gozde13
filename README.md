@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gozde Gozutok
+# 👋 Hi, I’m Gozde Gozutok
 - I've recently graduated from Middle East Technical University, department of Mathematics. 
 - 👀 I’m interested in Data Science, Data Analysis and Machine Learning
 - 🌱 I’m currently learning python and sql
