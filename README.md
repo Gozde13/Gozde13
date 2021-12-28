@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Gozde Gozutok
+#### I'am a graduate student at Middle East Technical University at Data Informatics department.
 #### I've recently graduated from Middle East Technical University, department of Mathematics.
 #### 👀 I’m interested in Data Science, Data Analysis and Machine Learning
 #### 🌱 I’m currently learning python and sql
